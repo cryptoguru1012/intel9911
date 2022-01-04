@@ -1,6 +1,12 @@
 <h2 align="center">Full Stack Web & Blockchain Developer</h2>
 <div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
 
+### About Me:
+
+- 👀 I’m passionate in Software Engineering & Crypto World (React, Vue, Angular, PHP/Laravel, Python/Django, Node/Express, Dex, DEFI, TradingBot)
+- 💫 I’m currently focusing on Smart Contract and learning Rust/Go
+- 💞️ I’m looking to collaborate on Smart Contract Development
+
 ## 🏆 Profile Trophy
 
 <p align="center">
