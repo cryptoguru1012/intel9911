@@ -1,4 +1,4 @@
-<h2 align="center">Full Stack Blockchain Developer</h2>
+<h2 align="center">Full Stack Web & Blockchain Developer</h2>
 <div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
 
 ## 🏆 Profile Trophy
