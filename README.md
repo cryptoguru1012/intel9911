@@ -3,7 +3,7 @@
 
 ### About Me:
 
-- 👀 I’m passionate in Software Engineering & Crypto World (React, Vue, Angular, PHP/Laravel, Python/Django, Node/Express, Dex, DEFI, TradingBot)
+- 👀 I’m passionate in Software Engineering & Crypto World (React, Vue, Angular, PHP/Laravel, Python/Django, Node/Express, Dex, DEFI, NFT marketplace, TradingBot)
 - 💫 I’m currently focusing on Smart Contract and learning Rust/Go
 - 💞️ I’m looking to collaborate on Smart Contract Development
 
